@@ -1,4 +1,4 @@
-console.log("Hello, World!"); 
+//console.log("Hello, World!"); 
 let name="Swasti";
 let age=21;
 let contact=9827331667;

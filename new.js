@@ -19,5 +19,7 @@ let divide = a / b;
 let substraction = a - b;
 console.log(multiplication);
 console.log(divide);
+
+
 console.log(substraction);
 
